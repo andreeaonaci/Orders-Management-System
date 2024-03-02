@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17d4faf4-c6b0-46b9-9397-b7f523a4c089" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Git-2.39.2-64-bit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture_1_Software_Construction.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture_2_UML_Diagrams.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/BusinessLogic/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/BusinessLogic/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/BusinessLogic/SimulationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/BusinessLogic/SimulationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Interface/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Interface/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Interface/View.form" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Interface/View.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Interface/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Interface/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Model/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Model/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/Model/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PT2023_30421_Onaci_Andreea_Assignment_2/Assignment_2/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/OrderBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/OrderBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/NameValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/NameValidators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/PriceValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/PriceValidators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/QuantityOrderValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/QuantityOrderValidators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/QuantityValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/QuantityValidators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/Validators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/Validators/Validators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ClientDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/Fields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/Fields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/OrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/OrderDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/LogFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/LogFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ControllerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ControllerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ControllerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ControllerOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewBills.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewBills.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewBills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewBills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewClients.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewClients.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewClients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewClients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewMenu.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewMenu.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewOrders.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewOrders.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduct.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduct.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PMwCFFzwmR04IFesK5BuSrXg4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;254&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Java/jdk-17.0.4.1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DataAccess" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d4faf4-c6b0-46b9-9397-b7f523a4c089" name="Changes" comment="" />
+      <created>1683280129725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683280129725</updated>
+      <workItem from="1683280132104" duration="6070000" />
+      <workItem from="1683358225086" duration="923000" />
+      <workItem from="1683545864897" duration="8568000" />
+      <workItem from="1683610280894" duration="2682000" />
+      <workItem from="1683716343478" duration="2608000" />
+      <workItem from="1683741602901" duration="197000" />
+      <workItem from="1683748830125" duration="809000" />
+      <workItem from="1683823944886" duration="2372000" />
+      <workItem from="1683837189975" duration="1556000" />
+      <workItem from="1683839185641" duration="1954000" />
+      <workItem from="1683892326207" duration="31213000" />
+      <workItem from="1683965198770" duration="14361000" />
+      <workItem from="1684064224601" duration="3191000" />
+      <workItem from="1684082976465" duration="24406000" />
+      <workItem from="1684107473810" duration="5072000" />
+      <workItem from="1684145066660" duration="852000" />
+      <workItem from="1684148519543" duration="12807000" />
+      <workItem from="1684162739269" duration="372000" />
+      <workItem from="1684255035227" duration="19622000" />
+      <workItem from="1684321435446" duration="27278000" />
+      <workItem from="1684356892363" duration="3058000" />
+      <workItem from="1684393104586" duration="7092000" />
+      <workItem from="1684426236663" duration="2975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
